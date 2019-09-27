@@ -11,7 +11,7 @@ from PIL import Image, ImageDraw, ImageFont, ImageFilter
 import shutil
 
 # 字体的位置
-font_path = 'E:/python/vertification_code/fonts/arial.ttf'
+font_path = './verification_code/fonts/arial.ttf'
 # 生成几位数的验证码
 number = 4
 # 生成验证码图片的高度和宽度
